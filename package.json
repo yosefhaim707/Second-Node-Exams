@@ -1,0 +1,14 @@
+{
+  "name": "second-node-exams",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node reader.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "loadsh": "^0.0.4"
+  }
+}
